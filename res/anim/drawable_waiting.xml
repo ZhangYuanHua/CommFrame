@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_launcher" android:duration="90"/>
+    <item android:drawable="@drawable/indicator_arrow" android:duration="90"/>
+    <item android:drawable="@drawable/refresh_arrow" android:duration="90"/>
+</animation-list>
